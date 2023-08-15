@@ -1,1 +1,6 @@
+- 👋 Hi, I’m Muaz Hasan
+- 👀 I like one punch man! and space 🚀
+- 🌱 I’m currently learning C, C++.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 # Muaz.Hasan
